@@ -1,0 +1,6 @@
+C:\Users\shai\My Documents\Visual Studio 2015\Projects\ExtendedStorageHost\ExtendedStorageHost\bin\Debug\ExtendedStrorageHost.exe
+C:\Users\shai\My Documents\Visual Studio 2015\Projects\ExtendedStorageHost\ExtendedStorageHost\bin\Debug\ExtendedStrorageHost.pdb
+C:\Users\shai\My Documents\Visual Studio 2015\Projects\ExtendedStorageHost\ExtendedStorageHost\bin\Debug\JhiSharp.dll
+C:\Users\shai\My Documents\Visual Studio 2015\Projects\ExtendedStorageHost\ExtendedStorageHost\obj\x86\Debug\ExtendedStorageHost.csprojResolveAssemblyReference.cache
+C:\Users\shai\My Documents\Visual Studio 2015\Projects\ExtendedStorageHost\ExtendedStorageHost\obj\x86\Debug\ExtendedStrorageHost.exe
+C:\Users\shai\My Documents\Visual Studio 2015\Projects\ExtendedStorageHost\ExtendedStorageHost\obj\x86\Debug\ExtendedStrorageHost.pdb

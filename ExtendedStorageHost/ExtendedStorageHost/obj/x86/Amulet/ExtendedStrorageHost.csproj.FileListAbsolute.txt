@@ -1,0 +1,6 @@
+C:\Users\shai\My Documents\Visual Studio 2015\Projects\ExtendedStrorageHost\ExtendedStrorageHost\obj\x86\Amulet\ExtendedStrorageHost.exe
+C:\Users\shai\My Documents\Visual Studio 2015\Projects\ExtendedStrorageHost\ExtendedStrorageHost\obj\x86\Amulet\ExtendedStrorageHost.pdb
+C:\Users\shai\My Documents\Visual Studio 2015\Projects\ExtendedStrorageHost\ExtendedStrorageHost\bin\Amulet\ExtendedStrorageHost.exe
+C:\Users\shai\My Documents\Visual Studio 2015\Projects\ExtendedStrorageHost\ExtendedStrorageHost\bin\Amulet\ExtendedStrorageHost.pdb
+C:\Users\shai\My Documents\Visual Studio 2015\Projects\ExtendedStrorageHost\ExtendedStrorageHost\bin\Amulet\JhiSharp.dll
+C:\Users\shai\My Documents\Visual Studio 2015\Projects\ExtendedStrorageHost\ExtendedStrorageHost\obj\x86\Amulet\ExtendedStrorageHost.csprojResolveAssemblyReference.cache

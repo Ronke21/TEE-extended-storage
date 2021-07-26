@@ -1,0 +1,2 @@
+ & "$env:DALsdk\Tools\PackTool\PackTool.exe" Pack -jeff "C:\Users\shai\workspace\ExtendedStorage\bin\ME11.0\ExtendedStorage_ME11.0.jeff" -conf "C:\Users\shai\workspace\ExtendedStorage\Manifests\ME11.0.DALmanifest" -out "C:\Users\shai\workspace\ExtendedStorage\bin\ME11.0\ExtendedStorage_ME11.0.pack" -version "12.0"
+ & "C:\DALsdk\Tools\DALPackageCreator\DALPackageCreator.exe" -out "C:\Users\shai\workspace\ExtendedStorage\bin\ExtendedStorage.dalp" -config "C:\Users\shai\workspace\ExtendedStorage\conf.txt"

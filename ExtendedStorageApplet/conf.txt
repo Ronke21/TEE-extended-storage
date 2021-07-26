@@ -1,0 +1,1 @@
+::Applet C:\Users\shai\workspace\ExtendedStorage\bin\ME11.0\ExtendedStorage_ME11.0.pack ::FwVersion 11.0.0
